@@ -1,0 +1,9 @@
+{
+    "name": "hghey/mvc-khodam",
+    "autoload": {
+        "psr-4": {
+            "App\\": "./"
+        }
+    },
+    "require": {}
+}
