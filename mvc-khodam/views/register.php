@@ -25,11 +25,11 @@
     <input type="text" name ="user" class="form-control">
   <div class ="form-control">
     <label >PassWord</label>
-    <input type="text" name ="passWord" class="form-control">
+    <input type="text" name ="password" class="form-control">
   </div>
   <div class ="form-control">
     <label >PasswordRepeat</label>
-    <input type="pasword" name ="confirmpassword" class="form-control">
+    <input type="pasword" name ="passwordConfirem" class="form-control">
   </div>
   
   <button type="submit" class="btn btn-primary">Submit</button>

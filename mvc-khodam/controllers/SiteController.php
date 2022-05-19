@@ -25,9 +25,9 @@ class SiteController extends Controller{
     }
     public function handleContact(Request $request)
     {
-        $body =  $request->getBody();//Application::$app->request->getBody()
+        $body =  $request->getBody();
         var_dump($_POST);
-         //چرا از $this استفاده نکردیم
+         
         
     }
 }
